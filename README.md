@@ -4,6 +4,7 @@ BCdata workshop for SNC-Lavalin data
 **Mentor:** Cameron Wallace  
 **Project Room:** ORCH 3072
 **Official website for workshop:** http://workshop.bcdata.ca/2018/ 
+**More detailed (working) repository** https://github.com/slemonide/workshop-content18/tree/master/3-snc/src
 
 ## Summary
 
