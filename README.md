@@ -5,7 +5,7 @@ BCdata workshop for SNC-Lavalin data
 **Project Room:** ORCH 3072
 **Official website for workshop:** http://workshop.bcdata.ca/2018/ 
 **More detailed (working) repository** https://github.com/slemonide/workshop-content18/tree/master/3-snc/src
-![Sample ship path][https://github.com/kate-melnykova/BCdata2018-SNC-Lavalin-project/blob/main/snc-lavalin-sample-ship-path.png]
+![Sample ship path](https://github.com/kate-melnykova/BCdata2018-SNC-Lavalin-project/blob/main/snc-lavalin-sample-ship-path.png)
 ## Summary
 
 As part of a study for the Port Authority of Vancouver, cargo ship positions
